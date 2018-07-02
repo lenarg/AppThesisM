@@ -1,0 +1,45 @@
+﻿<resources>
+    <string name="app_name">mARs</string>
+    <string name="about">Σχετικά με</string>
+    <string name="title_activity_nearby">Κοντινά</string>
+    <string name="title_activity_maps">Χάρτης</string>
+    <string name="mapText">Χάρτες</string>
+    <string name="nearbyText">Κοντινά</string>
+    <string name="toursText">Περιηγήσεις</string>
+    <string name="searchText">Αναζήτηση</string>
+    <string name="addressText">Διεύθυνση:</string>
+    <string name="coordinatesText">Συντεταγμένες:</string>
+    <string name="placesText">Περιοχές</string>
+    <string name="notifText">Ειδοποιήσεις</string>
+    <string name="title_activity_place_details">Λεπτομέριες Περιοχής</string>
+    <string name="title_activity_tour_details">Λεπτομέριες Περιήγησης</string>
+    <string name="tourPlaces">Περιοχές Περιήγησης</string>
+    <string name="title_activity_arrival">Άφιξη</string>
+    <string name="arrivalText">Φτάσατε σε: </string>
+    <string name="arrivalPName">Όνομα Περιοχής</string>
+    <string name="arrivalBtnPDetails">Πληροφορίες Περιοχής</string>
+    <string name="arrivalBtnNextTP">Επόμενη Περιοχή</string>
+    <string name="arrivalBtnMenu">Επιστροφή στο Μενού</string>
+    <string name="StartTourBtn">ΕΝΑΡΞΗ ΠΕΡΙΗΓΗΣΗΣ</string>
+    <string name="TourNameText">Όνομα Περιήγησης</string>
+    <string name="TourDescText">Περιγραφή Περιήγησης</string>
+    <string name="TourPlacesText">Περιοχές Περιήγησης</string>
+    <string name="StartNavBtn">ΕΝΑΡΞΗ ΠΛΟΗΓΗΣΗΣ</string>
+    <string name="title_activity_about">Σχετικά Με</string>
+
+    <string name="developed1">Αναπτύχθηκε από:</string>
+    <string name="developed2">Ρέγκου Ελένη</string>
+    <string name="supervised1">Επιβλέπων Καθηγητής:</string>
+    <string name="supervised2">Δρ. Μηνάς Δασυγένης</string>
+    <string name="website1">Ιστοσελίδα:</string>
+    <string name="website2"><a href="https://zafora.icte.uowm.gr/~ictest00344/">https://zafora.icte.uowm.gr/~ictest00344/</a></string>
+    <string name="depart1">Τμήμα:</string>
+    <string name="depart2">Μηχανικών Πληροφορικής και Τηλεπικοινωνιών</string>
+    <string name="uni1">Πανεπιστήμιο:</string>
+    <string name="uni2">Πανεπιστήμιο Δυτικής Μακεδονίας</string>
+    <string name="year1">Έτος:</string>
+    <string name="year2">2018</string>
+    <string name="thesthem1">Θέμα Διπλωματικής Εργασίας:</string>
+    <string name="thesthem2">Σχεδιασμός και Ανάπτυξη Εφαρμογής Android με Υποστηρικτική Ιστοσελίδα για Δημιουργία Ταξιδιωτικού Οδηγού Δυτικής Μακεδονίας</string>
+
+</resources>

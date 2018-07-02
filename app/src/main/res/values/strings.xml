@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">mARs</string>
+    <string name="about">About</string>
+    <string name="title_activity_nearby">Nearby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapText">Maps</string>
+    <string name="nearbyText">Nearby</string>
+    <string name="toursText">Tours</string>
+    <string name="searchText">Search</string>
+    <string name="addressText">Address:</string>
+    <string name="coordinatesText">Coordinates:</string>
+    <string name="placesText">Places</string>
+    <string name="notifText">Notifications</string>
+    <string name="title_activity_place_details">Place Details</string>
+    <string name="title_activity_tour_details">Tour Details</string>
+    <string name="tourPlaces">Tour Places</string>
+    <string name="title_activity_arrival">Arrival</string>
+    <string name="arrivalText">You arrived at: </string>
+    <string name="arrivalPName">Place Name</string>
+    <string name="arrivalBtnPDetails">Get Place Details</string>
+    <string name="arrivalBtnNextTP">Next Tour Place</string>
+    <string name="arrivalBtnMenu">Main Menu</string>
+    <string name="StartNavBtn">START NAVIGATION</string>
+    <string name="StartTourBtn">START TOUR</string>
+    <string name="TourNameText">Tour Name</string>
+    <string name="TourDescText">Tour Description</string>
+    <string name="TourPlacesText">Tour Places</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="developed1">Developed by:</string>
+    <string name="developed2">Regkou Eleni</string>
+    <string name="supervised1">Supervised by:</string>
+    <string name="supervised2">Dr. Minas Dasygenis</string>
+    <string name="website1">Website</string>
+    <string name="website2"><a href="https://zafora.icte.uowm.gr/~ictest00344/">https://zafora.icte.uowm.gr/~ictest00344/</a></string>
+    <string name="depart1">Department:</string>
+    <string name="depart2">Informatics and Telecommunications Engineering</string>
+    <string name="uni1">University:</string>
+    <string name="uni2">Univercity of Western Macedonia</string>
+    <string name="year1">Year:</string>
+    <string name="year2">2018</string>
+    <string name="thesthem1">Thesis Subject:</string>
+    <string name="thesthem2">Design and Development of an Android Application with Supportive Website in order to Create a Travel Guide for Western Macedonia</string>
+
+</resources>
